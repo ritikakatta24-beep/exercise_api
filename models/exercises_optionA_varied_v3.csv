@@ -1,0 +1,253 @@
+workout_type,day_index,fitness_level,order,exercise_name,sets,reps,duration_sec
+Strength,1,Beginner,1,Bodyweight Squat,3.0,12.0,
+Strength,1,Beginner,2,Knee Push-ups,3.0,12.0,
+Strength,1,Beginner,3,Plank,3.0,,45
+Strength,2,Beginner,1,Goblet Squat (light),3.0,10.0,
+Strength,2,Beginner,2,Incline Push-ups,3.0,10.0,
+Strength,2,Beginner,3,Side Plank,3.0,,30
+Strength,3,Beginner,1,Lunges,3.0,12.0,
+Strength,3,Beginner,2,Dumbbell Row (light),3.0,10.0,
+Strength,3,Beginner,3,Glute Bridge,3.0,15.0,
+Strength,4,Beginner,1,Assist Pull-down,2.0,12.0,
+Strength,4,Beginner,2,Dead Bug,2.0,15.0,
+Strength,4,Beginner,3,Relaxed Walk,,,900
+Strength,5,Beginner,1,Bodyweight Squat,3.0,12.0,
+Strength,5,Beginner,2,Knee Push-ups,3.0,12.0,
+Strength,5,Beginner,3,Plank,3.0,,45
+Strength,6,Beginner,1,Goblet Squat (light),3.0,10.0,
+Strength,6,Beginner,2,Incline Push-ups,3.0,10.0,
+Strength,6,Beginner,3,Side Plank,3.0,,30
+Strength,7,Beginner,1,Assist Pull-down,2.0,12.0,
+Strength,7,Beginner,2,Dead Bug,2.0,15.0,
+Strength,7,Beginner,3,Relaxed Walk,,,900
+Strength,1,Intermediate,1,Goblet Squat,4.0,10.0,
+Strength,1,Intermediate,2,Push-ups,4.0,10.0,
+Strength,1,Intermediate,3,Plank,4.0,,60
+Strength,2,Intermediate,1,Deadlift (moderate),4.0,8.0,
+Strength,2,Intermediate,2,Bench Press (dumbbell),4.0,8.0,
+Strength,2,Intermediate,3,Hanging Leg Raise,3.0,12.0,
+Strength,3,Intermediate,1,Walking Lunges,4.0,12.0,
+Strength,3,Intermediate,2,Single-arm Row,4.0,10.0,
+Strength,3,Intermediate,3,Farmer Carry,3.0,,30
+Strength,4,Intermediate,1,Goblet Squat,4.0,10.0,
+Strength,4,Intermediate,2,Push-ups,4.0,10.0,
+Strength,4,Intermediate,3,Plank,4.0,,60
+Strength,5,Intermediate,1,Front Squat,3.0,8.0,
+Strength,5,Intermediate,2,Overhead Press,3.0,8.0,
+Strength,5,Intermediate,3,Core Circuit,,,600
+Strength,6,Intermediate,1,Deadlift (moderate),4.0,8.0,
+Strength,6,Intermediate,2,Bench Press (dumbbell),4.0,8.0,
+Strength,6,Intermediate,3,Hanging Leg Raise,3.0,12.0,
+Strength,7,Intermediate,1,Front Squat,3.0,8.0,
+Strength,7,Intermediate,2,Overhead Press,3.0,8.0,
+Strength,7,Intermediate,3,Core Circuit,,,600
+Strength,1,Advanced,1,Barbell Back Squat,5.0,5.0,
+Strength,1,Advanced,2,Weighted Push-ups,5.0,8.0,
+Strength,1,Advanced,3,Weighted Plank,4.0,,90
+Strength,2,Advanced,1,Deadlift (heavy),5.0,5.0,
+Strength,2,Advanced,2,Incline Bench,4.0,6.0,
+Strength,2,Advanced,3,Weighted Pull-ups,4.0,6.0,
+Strength,3,Advanced,1,Pistol Squat Progression,4.0,6.0,
+Strength,3,Advanced,2,Muscle-up Practice,4.0,5.0,
+Strength,3,Advanced,3,Hanging Windshield Wipers,4.0,10.0,
+Strength,4,Advanced,1,Olympic Lift Tech,4.0,3.0,
+Strength,4,Advanced,2,Speed Deadlift,4.0,3.0,
+Strength,4,Advanced,3,Core EMOM,,,720
+Strength,5,Advanced,1,Barbell Back Squat,5.0,5.0,
+Strength,5,Advanced,2,Weighted Push-ups,5.0,8.0,
+Strength,5,Advanced,3,Weighted Plank,4.0,,90
+Strength,6,Advanced,1,Deadlift (heavy),5.0,5.0,
+Strength,6,Advanced,2,Incline Bench,4.0,6.0,
+Strength,6,Advanced,3,Weighted Pull-ups,4.0,6.0,
+Strength,7,Advanced,1,Olympic Lift Tech,4.0,3.0,
+Strength,7,Advanced,2,Speed Deadlift,4.0,3.0,
+Strength,7,Advanced,3,Core EMOM,,,720
+Cardio,1,Beginner,1,Brisk Walk,,,1800
+Cardio,1,Beginner,2,Light Bike,,,1200
+Cardio,1,Beginner,3,Easy Row,,,900
+Cardio,2,Beginner,1,Jog Intervals,,,1200
+Cardio,2,Beginner,2,Jump Rope (easy),3.0,40.0,
+Cardio,2,Beginner,3,Stair Climb,,,600
+Cardio,3,Beginner,1,Elliptical,,,1500
+Cardio,3,Beginner,2,Shadow Boxing,3.0,60.0,
+Cardio,3,Beginner,3,Walk Cooldown,,,900
+Cardio,4,Beginner,1,Brisk Walk,,,1800
+Cardio,4,Beginner,2,Light Bike,,,1200
+Cardio,4,Beginner,3,Easy Row,,,900
+Cardio,5,Beginner,1,Jog Intervals,,,1200
+Cardio,5,Beginner,2,Jump Rope (easy),3.0,40.0,
+Cardio,5,Beginner,3,Stair Climb,,,600
+Cardio,6,Beginner,1,Elliptical,,,1500
+Cardio,6,Beginner,2,Shadow Boxing,3.0,60.0,
+Cardio,6,Beginner,3,Walk Cooldown,,,900
+Cardio,7,Beginner,1,Brisk Walk,,,1800
+Cardio,7,Beginner,2,Light Bike,,,1200
+Cardio,7,Beginner,3,Easy Row,,,900
+Cardio,1,Intermediate,1,Running (steady),,,1500
+Cardio,1,Intermediate,2,Bike Tempo,,,1800
+Cardio,1,Intermediate,3,Rowing Intervals,,,720
+Cardio,2,Intermediate,1,Sprint Intervals,,,720
+Cardio,2,Intermediate,2,Jump Rope HIIT,4.0,60.0,
+Cardio,2,Intermediate,3,Hill Repeats,,,600
+Cardio,3,Intermediate,1,Fartlek Run,,,1800
+Cardio,3,Intermediate,2,Tempo Bike,,,2100
+Cardio,3,Intermediate,3,Recovery Walk,,,1200
+Cardio,4,Intermediate,1,Running (steady),,,1500
+Cardio,4,Intermediate,2,Bike Tempo,,,1800
+Cardio,4,Intermediate,3,Rowing Intervals,,,720
+Cardio,5,Intermediate,1,Sprint Intervals,,,720
+Cardio,5,Intermediate,2,Jump Rope HIIT,4.0,60.0,
+Cardio,5,Intermediate,3,Hill Repeats,,,600
+Cardio,6,Intermediate,1,Fartlek Run,,,1800
+Cardio,6,Intermediate,2,Tempo Bike,,,2100
+Cardio,6,Intermediate,3,Recovery Walk,,,1200
+Cardio,7,Intermediate,1,Fartlek Run,,,1800
+Cardio,7,Intermediate,2,Tempo Bike,,,2100
+Cardio,7,Intermediate,3,Recovery Walk,,,1200
+Cardio,1,Advanced,1,Long Run,,,3600
+Cardio,1,Advanced,2,Interval Sprints,,,1200
+Cardio,1,Advanced,3,Tempo Bike,,,2400
+Cardio,2,Advanced,1,Hill Sprints,,,900
+Cardio,2,Advanced,2,Track Repeats,,,1500
+Cardio,2,Advanced,3,Rowing Power,,,900
+Cardio,3,Advanced,1,Recovery Swim,,,1800
+Cardio,3,Advanced,2,Easy Jog,,,1500
+Cardio,3,Advanced,3,Mobility Flow,,,1200
+Cardio,4,Advanced,1,Recovery Swim,,,1800
+Cardio,4,Advanced,2,Easy Jog,,,1500
+Cardio,4,Advanced,3,Mobility Flow,,,1200
+Cardio,5,Advanced,1,Long Run,,,3600
+Cardio,5,Advanced,2,Interval Sprints,,,1200
+Cardio,5,Advanced,3,Tempo Bike,,,2400
+Cardio,6,Advanced,1,Hill Sprints,,,900
+Cardio,6,Advanced,2,Track Repeats,,,1500
+Cardio,6,Advanced,3,Rowing Power,,,900
+Cardio,7,Advanced,1,Recovery Swim,,,1800
+Cardio,7,Advanced,2,Easy Jog,,,1500
+Cardio,7,Advanced,3,Mobility Flow,,,1200
+Yoga,1,Beginner,1,Sun Salutation,,,900
+Yoga,1,Beginner,2,Standing Flow,,,600
+Yoga,1,Beginner,3,Seated Stretch,,,600
+Yoga,2,Beginner,1,Balance Flow,,,720
+Yoga,2,Beginner,2,Hip Openers,,,600
+Yoga,2,Beginner,3,Yoga Nidra,,,600
+Yoga,3,Beginner,1,Sun Salutation,,,900
+Yoga,3,Beginner,2,Standing Flow,,,600
+Yoga,3,Beginner,3,Seated Stretch,,,600
+Yoga,4,Beginner,1,Balance Flow,,,720
+Yoga,4,Beginner,2,Hip Openers,,,600
+Yoga,4,Beginner,3,Yoga Nidra,,,600
+Yoga,5,Beginner,1,Sun Salutation,,,900
+Yoga,5,Beginner,2,Standing Flow,,,600
+Yoga,5,Beginner,3,Seated Stretch,,,600
+Yoga,6,Beginner,1,Balance Flow,,,720
+Yoga,6,Beginner,2,Hip Openers,,,600
+Yoga,6,Beginner,3,Yoga Nidra,,,600
+Yoga,7,Beginner,1,Sun Salutation,,,900
+Yoga,7,Beginner,2,Standing Flow,,,600
+Yoga,7,Beginner,3,Seated Stretch,,,600
+Yoga,1,Intermediate,1,Sun Salutation,,,900
+Yoga,1,Intermediate,2,Standing Flow,,,600
+Yoga,1,Intermediate,3,Seated Stretch,,,600
+Yoga,2,Intermediate,1,Balance Flow,,,720
+Yoga,2,Intermediate,2,Hip Openers,,,600
+Yoga,2,Intermediate,3,Yoga Nidra,,,600
+Yoga,3,Intermediate,1,Sun Salutation,,,900
+Yoga,3,Intermediate,2,Standing Flow,,,600
+Yoga,3,Intermediate,3,Seated Stretch,,,600
+Yoga,4,Intermediate,1,Balance Flow,,,720
+Yoga,4,Intermediate,2,Hip Openers,,,600
+Yoga,4,Intermediate,3,Yoga Nidra,,,600
+Yoga,5,Intermediate,1,Sun Salutation,,,900
+Yoga,5,Intermediate,2,Standing Flow,,,600
+Yoga,5,Intermediate,3,Seated Stretch,,,600
+Yoga,6,Intermediate,1,Balance Flow,,,720
+Yoga,6,Intermediate,2,Hip Openers,,,600
+Yoga,6,Intermediate,3,Yoga Nidra,,,600
+Yoga,7,Intermediate,1,Sun Salutation,,,900
+Yoga,7,Intermediate,2,Standing Flow,,,600
+Yoga,7,Intermediate,3,Seated Stretch,,,600
+Yoga,1,Advanced,1,Sun Salutation,,,900
+Yoga,1,Advanced,2,Standing Flow,,,600
+Yoga,1,Advanced,3,Seated Stretch,,,600
+Yoga,2,Advanced,1,Balance Flow,,,720
+Yoga,2,Advanced,2,Hip Openers,,,600
+Yoga,2,Advanced,3,Yoga Nidra,,,900
+Yoga,3,Advanced,1,Sun Salutation,,,900
+Yoga,3,Advanced,2,Standing Flow,,,600
+Yoga,3,Advanced,3,Seated Stretch,,,600
+Yoga,4,Advanced,1,Balance Flow,,,720
+Yoga,4,Advanced,2,Hip Openers,,,600
+Yoga,4,Advanced,3,Yoga Nidra,,,900
+Yoga,5,Advanced,1,Sun Salutation,,,900
+Yoga,5,Advanced,2,Standing Flow,,,600
+Yoga,5,Advanced,3,Seated Stretch,,,600
+Yoga,6,Advanced,1,Balance Flow,,,720
+Yoga,6,Advanced,2,Hip Openers,,,600
+Yoga,6,Advanced,3,Yoga Nidra,,,900
+Yoga,7,Advanced,1,Sun Salutation,,,900
+Yoga,7,Advanced,2,Standing Flow,,,600
+Yoga,7,Advanced,3,Seated Stretch,,,600
+HIIT,1,Beginner,1,Jumping Jacks,3.0,20.0,
+HIIT,1,Beginner,2,Bodyweight Squat Jumps,3.0,12.0,
+HIIT,1,Beginner,3,Mountain Climbers,3.0,30.0,
+HIIT,2,Beginner,1,Low-impact Burpees,3.0,10.0,
+HIIT,2,Beginner,2,Step-ups,3.0,15.0,
+HIIT,2,Beginner,3,High Knees (moderate),3.0,30.0,
+HIIT,3,Beginner,1,Tabata: Squat Jumps,4.0,15.0,
+HIIT,3,Beginner,2,Tabata: Push-ups,4.0,10.0,
+HIIT,3,Beginner,3,Cooldown Walk,,,600
+HIIT,4,Beginner,1,Jumping Jacks,3.0,20.0,
+HIIT,4,Beginner,2,Bodyweight Squat Jumps,3.0,12.0,
+HIIT,4,Beginner,3,Mountain Climbers,3.0,30.0,
+HIIT,5,Beginner,1,Low-impact Burpees,3.0,10.0,
+HIIT,5,Beginner,2,Step-ups,3.0,15.0,
+HIIT,5,Beginner,3,High Knees (moderate),3.0,30.0,
+HIIT,6,Beginner,1,Tabata: Squat Jumps,4.0,15.0,
+HIIT,6,Beginner,2,Tabata: Push-ups,4.0,10.0,
+HIIT,6,Beginner,3,Cooldown Walk,,,600
+HIIT,7,Beginner,1,Tabata: Squat Jumps,4.0,15.0,
+HIIT,7,Beginner,2,Tabata: Push-ups,4.0,10.0,
+HIIT,7,Beginner,3,Cooldown Walk,,,600
+HIIT,1,Intermediate,1,Burpees,4.0,15.0,
+HIIT,1,Intermediate,2,Jump Lunges,4.0,12.0,
+HIIT,1,Intermediate,3,Sprint Intervals,,,480
+HIIT,2,Intermediate,1,Kettlebell Swings,4.0,12.0,
+HIIT,2,Intermediate,2,Box Jumps,4.0,10.0,
+HIIT,2,Intermediate,3,Battle Ropes,4.0,30.0,
+HIIT,3,Intermediate,1,AMRAP 12 min,,,720
+HIIT,3,Intermediate,2,Core Blast,3.0,20.0,
+HIIT,3,Intermediate,3,Recovery Mobility,,,600
+HIIT,4,Intermediate,1,AMRAP 12 min,,,720
+HIIT,4,Intermediate,2,Core Blast,3.0,20.0,
+HIIT,4,Intermediate,3,Recovery Mobility,,,600
+HIIT,5,Intermediate,1,Burpees,4.0,15.0,
+HIIT,5,Intermediate,2,Jump Lunges,4.0,12.0,
+HIIT,5,Intermediate,3,Sprint Intervals,,,480
+HIIT,6,Intermediate,1,Kettlebell Swings,4.0,12.0,
+HIIT,6,Intermediate,2,Box Jumps,4.0,10.0,
+HIIT,6,Intermediate,3,Battle Ropes,4.0,30.0,
+HIIT,7,Intermediate,1,AMRAP 12 min,,,720
+HIIT,7,Intermediate,2,Core Blast,3.0,20.0,
+HIIT,7,Intermediate,3,Recovery Mobility,,,600
+HIIT,1,Advanced,1,Burpee Tuck Jumps,5.0,12.0,
+HIIT,1,Advanced,2,Plyo Lunges,5.0,15.0,
+HIIT,1,Advanced,3,Sprint Intervals,,,600
+HIIT,2,Advanced,1,Complex Circuit,5.0,8.0,
+HIIT,2,Advanced,2,Depth Jumps,5.0,8.0,
+HIIT,2,Advanced,3,Sled Push,6.0,30.0,
+HIIT,3,Advanced,1,HIIT Ladder,,,900
+HIIT,3,Advanced,2,Max Effort Row,,,480
+HIIT,3,Advanced,3,Long Stretch,,,600
+HIIT,4,Advanced,1,HIIT Ladder,,,900
+HIIT,4,Advanced,2,Max Effort Row,,,480
+HIIT,4,Advanced,3,Long Stretch,,,600
+HIIT,5,Advanced,1,Burpee Tuck Jumps,5.0,12.0,
+HIIT,5,Advanced,2,Plyo Lunges,5.0,15.0,
+HIIT,5,Advanced,3,Sprint Intervals,,,600
+HIIT,6,Advanced,1,Complex Circuit,5.0,8.0,
+HIIT,6,Advanced,2,Depth Jumps,5.0,8.0,
+HIIT,6,Advanced,3,Sled Push,6.0,30.0,
+HIIT,7,Advanced,1,HIIT Ladder,,,900
+HIIT,7,Advanced,2,Max Effort Row,,,480
+HIIT,7,Advanced,3,Long Stretch,,,600
